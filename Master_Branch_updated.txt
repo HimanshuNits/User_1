@@ -1,6 +1,2 @@
-<<<<<<< HEAD
-Updating master bronch.
-=======
-Updating master brench.
->>>>>>> origin/Branch_B1
+Updating master branch.
 so that user1 will have to rebase its branch_B1 to the updated master branch.
